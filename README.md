@@ -6,4 +6,3 @@
 
 ## Static analysis
 * https://github.com/rust-lang/rust-clippy
-* https://github.com/rust-analyzer/rust-analyzer

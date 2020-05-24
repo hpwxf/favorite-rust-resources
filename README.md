@@ -1,7 +1,9 @@
 # favorite-rust-resources
 
-## List of lists
+## Crates
+* https://docs.rs/crate/im/ Immutable data structures
 
+## List of lists
 * https://github.com/rust-unofficial/awesome-rust
 
 ## Static analysis

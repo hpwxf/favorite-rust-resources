@@ -1,7 +1,9 @@
 # favorite-rust-resources
 
 ## Crates
-* https://docs.rs/crate/im/ Immutable data structures
+* Immutable collections
+  * https://github.com/orium/rpds
+  * https://docs.rs/crate/im/ 
 
 ## List of lists
 * https://github.com/rust-unofficial/awesome-rust
